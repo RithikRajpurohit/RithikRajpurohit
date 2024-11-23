@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RithikRajpurohit
 - 👀 I’m interested in web Development and Problem solving 
 - 🌱 I’m currently learning Backend and DSA
-- 💞️ I’m looking to for a intership 
+- 💞️ I’m looking to for a Intership
 - 📫 How to reach me linkedin Rithikpurohit
 
 
