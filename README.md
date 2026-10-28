@@ -5,7 +5,7 @@ sprint lead time by approximately 20%, while ensuring robust and maintainable co
 
 I have a strong foundation in object-oriented programming, SOLID principles, dependency injection, asynchronous programming, clean coding practices, and software design patterns. On the frontend, I work with Angular and TypeScript to build component-based interfaces and integrate them with backend services. I am also familiar with Git and GitLab-based development workflows, Jenkins, CI/CD pipelines, debugging, testing, and Agile software development practices.
 
-As a B.Tech Computer Science graduate with a competitive programming background, I bring strong problem-solving and analytical skills to software development. I am passionate about writing clean, maintainable code, learning new technologies, and contributing to reliable and scalable software solutions.
+As a B.E Computer Science graduate with a competitive programming background, I bring strong problem-solving and analytical skills to software development. I am passionate about writing clean, maintainable code, learning new technologies, and contributing to reliable and scalable software solutions.
 
 <!---
 RithikRajpurohit/RithikRajpurohit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
